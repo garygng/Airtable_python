@@ -16,6 +16,6 @@ Use this script to bulk download all Airtable attachments no matter how big they
 
 **Is ther Python Sciprt upload with you own BASE ID, TABLE ID, API KEY**
 
-base_id = "YOUR BASE ID"
-table_id = "YOUR TABLE ID"
-api_key = "YOUR API KEY"
+base_id = "YOUR BASE ID"<br>
+table_id = "YOUR TABLE ID"<br>
+api_key = "YOUR API KEY"<br>
