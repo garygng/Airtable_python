@@ -9,7 +9,7 @@ Airtable Bulk Attachments Download using python<br>
 Use this script to bulk download all Airtable attachments no matter how big they are.<br>
 
 
-**Is ther Python Sciprt upload with you own BASE ID, TABLE ID, API KEY**
+**Is the Python Sciprt update it with you own BASE ID, TABLE ID, API KEY**
 
 base_id = "YOUR BASE ID"<br>
 table_id = "YOUR TABLE ID"<br>
