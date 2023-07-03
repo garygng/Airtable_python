@@ -9,7 +9,7 @@ import requests
 import json
 
 base_id = "<<YOUR BASE ID>>"
-table_id = "<<YOUR TABLE>>"
+table_id = "<<YOUR TABLE ID>>"
 url = "https://api.airtable.com/v0/" + base_id + "/" + table_id
 
 api_key = "<<YOUR API KEY>>"
