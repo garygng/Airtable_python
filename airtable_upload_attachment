@@ -1,4 +1,5 @@
 #HERE IS The working solution for curl upload attachment
 
+#replace with your {baseId}/{tableId}/{recordId}
 curl -X PATCH "https://api.airtable.com/v0/{baseId}/{tableId}/{recordId}" \ -H "Authorization: Bearer {YOUR_TOKEN}" \ -H "Content-Type: application/json" \ --data "{\"fields\": {\"attachment1\":[ {\"url\": \"https://volunteer.redcross.org.hk/volunteer/assets/img/logo@2x.eb7f96a1.png"}]}}"
 
